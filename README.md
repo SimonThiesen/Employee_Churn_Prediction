@@ -1,6 +1,8 @@
 # Employee_Churn_Prediction
 
 ## Project scope
+This is a exam project from the MSc course Data Mining For Business Decision at Aarhus University.
+
 Employee churn, i.e. employees leaving a firm, can be problematic for several reasons. Suitable replacements can be difficult and costly to find, it takes time for new employees to be fully productive, and ongoing projects may be delayed or terminated depending on the organization’s dependence on the lost employee (Saradhi & Palshikar, 2011). Thus, preventing valuable employees from churning is in the interest of many firms. Retention of valuable employees requires that we build a system that accurately classify which employees are likely to churn and the determinants/predictors of this behavior.
 
 ### Objectives 
