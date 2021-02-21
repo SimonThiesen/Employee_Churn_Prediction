@@ -8,7 +8,7 @@ Employee churn, i.e. employees leaving a firm, can be problematic for several re
 ### Objectives 
 build a model that is able to predict employee churn with the use of logistic regression with and without shrinkage to derive easy interpretable findings, exhibit improvement strategies and make data driven decisions on employee retention rate.
 
-Full report: [Dental Magic – Predicting Employee Churn](https://github.com/SimonThiesen/Employee_Churn_Prediction/files/6017562/Dental.Magic.Predicting.Churn.pdf)
+Full report: [Dental Magic – Predicting Employee Churn](Dental%20Magic%20-%20Predicting%20Employee%20Churn.pdf)
 
 ### Dataset
 Ficitonal HR dataset consiting of 35 features, 310 observations. [Kaggle HR Dataset](https://www.kaggle.com/rhuebner/human-resources-data-set/kernels)
